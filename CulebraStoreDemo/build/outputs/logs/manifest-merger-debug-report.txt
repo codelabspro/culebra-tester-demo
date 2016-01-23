@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:2:1-31:12
+	xmlns:android
+		ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:3:5-37
+	android:versionName
+		ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml
+		INJECTED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml
+		INJECTED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:8:9-35
+uses-permission#android.permission.INTERNET
+ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:10:22-64
+application
+ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:12:5-29:19
+	android:label
+		ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:14:9-45
+	android:theme
+		ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:16:9-40
+activity#com.example.pizzastore.MainActivity
+ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:18:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:23:27-74
+activity#com.example.pizzastore.DetailActivity
+ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:26:9-28:20
+	android:name
+		ADDED from /Users/coder/repos/codesdk/githubrepos/culebra-tester-demo/CulebraStoreDemo/AndroidManifest.xml:26:19-49

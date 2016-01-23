@@ -1,0 +1,17 @@
+<plugin name='breadcrumbs' version='0.5.2' grailsVersion='1.3.2 &gt; *'>
+  <author>James Hardwick</author>
+  <authorEmail>james@logicmpls.com</authorEmail>
+  <title>Breadcrumbs</title>
+  <description>\
+Provids a taglib for the simple yet customizeable generation of breadcrumbs.
+</description>
+  <documentation>http://grails.org/plugin/breadcrumbs</documentation>
+  <resources>
+    <resource>Config</resource>
+    <resource>UrlMappings</resource>
+    <resource>com.logicmpls.CrumbController</resource>
+    <resource>com.logicmpls.BreadcrumbTagLib</resource>
+  </resources>
+  <dependencies />
+  <behavior />
+</plugin>

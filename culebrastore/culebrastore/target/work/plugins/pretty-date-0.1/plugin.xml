@@ -1,0 +1,15 @@
+<plugin name='pretty-date' version='0.1' grailsVersion='1.1 &gt; *'>
+  <author>Seymour Cakes</author>
+  <title>Make date object print out human-readable relative timestamp</title>
+  <description>\
+    Make Date object support print out of relative timestamp in human readable format, similar to Rails' distance_of_time_in_words.
+    Usage: def d = new Date()
+           d.prettyDate()
+</description>
+  <documentation>http://grails.org/PrettyDate+Plugin</documentation>
+  <resources>
+    <resource>DataSource</resource>
+    <resource>UrlMappings</resource>
+  </resources>
+  <dependencies />
+</plugin>

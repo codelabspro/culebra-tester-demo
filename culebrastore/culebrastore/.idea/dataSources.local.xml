@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="pizzashop dev" uuid="0024cbf6-de51-44c6-b8b4-19416930c331">
+      <user-name>admin</user-name>
+      <user-password>dfdadfcbdfd9dfd9dfdddfc5dfd8dfce</user-password>
+    </data-source>
+    <data-source name="culebrastore dev" uuid="80e48ad3-9067-4d95-9b3e-d012385766e7">
+      <user-name>admin</user-name>
+      <user-password>dfdadfcbdfd9dfd9dfdddfc5dfd8dfce</user-password>
+      <schema-pattern>culebrastore.*</schema-pattern>
+      <default-schemas>culebrastore.*</default-schemas>
+    </data-source>
+  </component>
+</project>

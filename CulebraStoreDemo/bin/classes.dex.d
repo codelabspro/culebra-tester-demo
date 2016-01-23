@@ -1,0 +1,25 @@
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/classes.dex : \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/classes/com/example/pizzastore/BuildConfig.class \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/classes/com/example/pizzastore/MainActivity$1.class \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/classes/com/example/pizzastore/MainActivity$DataLoadingTask.class \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/classes/com/example/pizzastore/MainActivity$MyCustomAdapter$1.class \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/classes/com/example/pizzastore/MainActivity$MyCustomAdapter.class \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/classes/com/example/pizzastore/MainActivity.class \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/classes/com/example/pizzastore/ObjectsReader$1.class \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/classes/com/example/pizzastore/ObjectsReader.class \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/classes/com/example/pizzastore/Product.class \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/classes/com/example/pizzastore/ProductResponse.class \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/classes/com/example/pizzastore/R$attr.class \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/classes/com/example/pizzastore/R$dimen.class \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/classes/com/example/pizzastore/R$drawable.class \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/classes/com/example/pizzastore/R$id.class \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/classes/com/example/pizzastore/R$layout.class \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/classes/com/example/pizzastore/R$menu.class \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/classes/com/example/pizzastore/R$string.class \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/classes/com/example/pizzastore/R$style.class \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/classes/com/example/pizzastore/R.class \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/classes/com/example/pizzastore/Tag.class \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/dexedLibs/gson-2.2.4-sources-f4fcb8d2e95498232380260d0920ebce.jar \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/dexedLibs/gson-2.2.4-javadoc-b623ec4a1fdf4f729cafd4f53bebb52c.jar \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/dexedLibs/gson-2.2.4-314dedeac6c8a929ffbed25faba74bd5.jar \
+/Users/coder/repos/stepin2it/githubrepos/nov2014/android-client-for-pizzastore/PizzaStore/bin/dexedLibs/android-support-v4-92602e367fb3819ff05144f77bc18034.jar \
