@@ -1,7 +1,7 @@
 CulebraTesterDemo
 -----------------
 
-CulebraTester is the most advanced way of automating your test suite generation.
+CulebraTester (Created by https://github.com/dtmilano/) is the most advanced way of automating your test suite generation.
 
 CulebraTester generates tests for AndroidViewClient using a simple GUI :
 
