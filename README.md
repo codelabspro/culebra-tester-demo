@@ -11,3 +11,5 @@ CulebraTesterDemo contains a sample application.
 
 We shall use CulebraTester to generate the tests for this sample application.
 
+More info at http://www.codesdk.com/tutorial-24-using-culebra-tester/
+
