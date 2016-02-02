@@ -23,7 +23,7 @@
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost/culebrastore</jdbc-url>
+      <jdbc-url>jdbc:mysql://localhost/culebrastore?useUnicode=yes&amp;characterEncoding=UTF-8</jdbc-url>
       <driver-properties>
         <property name="zeroDateTimeBehavior" value="convertToNull" />
         <property name="tinyInt1isBit" value="false" />

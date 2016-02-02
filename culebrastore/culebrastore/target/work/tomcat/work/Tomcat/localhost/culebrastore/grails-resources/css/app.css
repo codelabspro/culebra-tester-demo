@@ -1,0 +1,34 @@
+/* FONT STACK */
+body,
+input, select, textarea {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+section
+{
+    border:1px solid darkblue;
+    padding:10px;
+
+    overflow:hidden;
+}
+section > section { float:center; }
+.container {
+    padding-left:20px;
+    width: 1024px;
+    float : center;
+}
+.leftcontainer {
+    float : left;
+    width: 800px;
+    background-color: #DDFFDD;
+}
+.rightcontainer {
+    background-color: #DDFF22;
+
+}
+.bottomcontainer {
+    float : bottom;
+    width: 1024px;
+    background-color: #EEDD11;
+}
+

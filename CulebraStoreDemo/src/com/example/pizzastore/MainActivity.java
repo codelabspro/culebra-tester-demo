@@ -75,7 +75,7 @@ public class MainActivity extends Activity {
 
 	public void read() {
 		Log.d(TAG, "read was called");
-		final String jsonFileUrl = "http://192.168.2.12:9090/culebrastore/product/index.json";
+		final String jsonFileUrl = "http://192.168.2.15:9090/culebrastore/product/index.json";
 
 		InputStream source = retrieveStream(jsonFileUrl);
 		Reader reader = new InputStreamReader(source);

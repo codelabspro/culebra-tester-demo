@@ -13,3 +13,7 @@ We shall use CulebraTester to generate the tests for this sample application.
 
 More info at http://www.codesdk.com/tutorial-24-using-culebra-tester/
 
+Screenshots
+-----------
+
+![alt text](https://github.com/codesdk/culebra-tester-demo/blob/master/screenshots/screenshot_1.png "Screnshot 1")
