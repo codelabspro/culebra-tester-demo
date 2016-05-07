@@ -21,4 +21,4 @@ Screenshots
 Demo
 ----
 
-https://www.youtube.com/watch?v=86EsVXTXma8
+Please find a demo [here](https://www.youtube.com/watch?v=86EsVXTXma8)
